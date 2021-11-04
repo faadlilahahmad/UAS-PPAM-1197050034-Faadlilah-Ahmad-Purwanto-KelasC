@@ -35,10 +35,10 @@ public class MainActivity extends AppCompatActivity {
         String password = passwordTV.getText().toString();
 
         Log.d("print", "Username = " + username + " dan Password = " + password);
-        Log.d("print", String.valueOf(username.equals("test")));
-        Log.d("print", String.valueOf(password.equals("123456")));
+        Log.d("print", String.valueOf(username.equals("admin")));
+        Log.d("print", String.valueOf(password.equals("123")));
         //Cek apakah username dan password benar
-        if (username.equals("test") && password.equals("123456")) {
+        if (username.equals("admin") && password.equals("123")) {
             Log.d("success", "Sukses Login");
             //Jika iya pindah activity
             //Menggunakan Explicit Intent
