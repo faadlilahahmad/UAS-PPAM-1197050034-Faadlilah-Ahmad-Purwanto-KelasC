@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "255487738660",
+    "project_id": "cafe-app-uas-fa77f",
+    "storage_bucket": "cafe-app-uas-fa77f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:255487738660:android:047bf12d3cc4299508a9b1",
+        "android_client_info": {
+          "package_name": "lat.pam.uts"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "255487738660-f3rdiv2640cfncarogvdj19f9ehvff61.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "lat.pam.uts",
+            "certificate_hash": "ac826f3eda8397dcd1a11ac661599d7ad15e68c2"
+          }
+        },
+        {
+          "client_id": "255487738660-13ds8rub3jqgcm8ntn4e8d5lktgc53n1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_mYdXrV23OzZxIZLGwUtH14uWqSRE07E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "255487738660-13ds8rub3jqgcm8ntn4e8d5lktgc53n1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
